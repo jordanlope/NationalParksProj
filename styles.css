@@ -1,0 +1,8 @@
+.error-message {
+    color: red;
+}
+
+.hidden {
+    display: none;
+    background-color: aqua;
+}
